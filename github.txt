@@ -1,0 +1,15 @@
+Git hub is a social media for developers where every developer can showcase their work and contribute to other projects.
+
+pull: request is for getting the repo branch from the github. Any one can send pull request to see your repo or contribute to it.
+
+push: pushing the changes done on local machine to github by the master or push request which is neede to be verified.
+
+And there are so many features on github for collaborators and for maintaining repos and also the projects.
+
+forking or fork: this feature allows you to copy the repo
+
+cloning or downloading
+
+cloning allows you to get github files with source files. By this you can track all the previous changes and history of those source files
+
+downloading allows you to download all the source files and make changes to it. And it doesn't contains any history or snap shots of the repository.

@@ -1,0 +1,24 @@
+Git hub is a social media for developers where every developer can showcase their work and contribute to other projects.
+
+pull: request is for getting the repo branch from the github. Any one can send pull request to see your repo or contribute to it.
+
+push: pushing the changes done on local machine to github by the master or push request which is neede to be verified.
+
+And there are so many features on github for collaborators and for maintaining repos and also the projects.
+
+forking or fork: this feature allows you to copy the repo
+
+cloning or downloading
+
+cloning allows you to get github files with source files. By this you can track all the previous changes and history of those source files
+
+downloading allows you to download all the source files and make changes to it. And it doesn't contains any history or snap shots of the repository.
+
+here to link both local and guthub repos we have to create repositories at both ends and have to be linke d by the following process.
+
+git remote add origin https://linktothegitrepo.com(just_a_reference)
+after this you can check versions on your repo at github by using
+git remote -v This will display about the fetch and push cycles of that repo.
+
+
+
