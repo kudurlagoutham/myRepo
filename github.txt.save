@@ -20,5 +20,17 @@ git remote add origin https://linktothegitrepo.com(just_a_reference)
 after this you can check versions on your repo at github by using
 git remote -v This will display about the fetch and push cycles of that repo.
 
+pulling the files from github
 
+git pull origin branch_name(this will work for multiple branch repo)
+git pull origin master(pulling the master branch)
+
+pushing the changes to github
+
+git push -u origin branch_name(this will prompt a user name and password section and these are required to update the repo)
+git push (The last pushed branch will be remembered by the git hub and the branch will be saved)
+
+deleting the github branches
+
+git push origin --delete branch_name(and a prompt with user name and password)
 
